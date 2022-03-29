@@ -24,6 +24,26 @@
                 Olá PHP
               </a>
             </li>
+            <li>
+              <a href="exercise.php?dir=basic&file=html">
+                Integração HTML
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=basic&file=css">
+                Integração CSS
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=basic&file=comments">
+                Comentários PHP
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=basic&file=challenge">
+                Desafio
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
