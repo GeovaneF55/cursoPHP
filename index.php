@@ -46,6 +46,51 @@
             </li>
           </ul>
         </div>
+        <div class="module red">
+          <h3>Módulo 02</h3>
+          <ul>
+            <li>
+              <a href="exercise.php?dir=type&file=int">
+                Tipo Inteiro
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=type&file=float">
+                Tipo Float
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=type&file=aritmethics">
+                Operações Aritméticas
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=type&file=challenge_precedency">
+                Desafio de Precedência
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=type&file=string">
+                Tipo String
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=type&file=challenge_string">
+                Desafio String
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=type&file=boolean">
+                Tipo Booleano
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=type&file=convertions">
+                Conversões
+              </a>
+            </li>
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
