@@ -44,7 +44,7 @@
   // Precedência de operadores
   // () => ** => / * % => + -
 
-  echo '<p>Precedência</p>';
+  echo "<p class='divide'>Precedência</p>";
   echo 2 + 3 * 4, '<br>'; // 14
   echo (2 + 3) * 4, '<br>'; // 20
   echo 2 + 3 * 4 ** 2, '<br>'; // 50

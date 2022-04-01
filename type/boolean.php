@@ -17,7 +17,7 @@
   echo is_bool('true');
 
   // fazer as regras de conversão
-  echo '<p>Regras: </p>';
+  echo "<p class='divide'>Regras: </p>";
   echo var_dump((bool) 0) . '<br>'; // apenas zero é false dos interiros
   echo var_dump((bool) 20) . '<br>';
   echo var_dump((bool) -1) . '<br>';

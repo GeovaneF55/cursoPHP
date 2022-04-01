@@ -9,12 +9,12 @@
 
 // ?>
 
-<p>Depois do primeiro bloco!</p>
+<p class='divide'>Depois do primeiro bloco!</p>
 
 <!--
-  <p>Comentário HTML 1</p>
-  <p>Comentário HTML 2</p>
-  <p>Comentário HTML 3</p>
+  <p class='divide'>Comentário HTML 1</p>
+  <p class='divide'>Comentário HTML 2</p>
+  <p class='divide'>Comentário HTML 3</p>
 -->
 
 <?php
@@ -26,4 +26,4 @@
   */
 ?>
 
-<p>Depois do segundo bloco!</p>
+<p class='divide'>Depois do segundo bloco!</p>

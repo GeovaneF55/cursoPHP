@@ -4,7 +4,7 @@
   echo is_int(PHP_INT_MAX);
 
   // int para float
-  echo '<p>Inteiro para float</p>';
+  echo "<p class='divide'>Inteiro para float</p>";
   var_dump(PHP_INT_MAX + 1);
 
   echo '<br>';
@@ -14,7 +14,7 @@
   var_dump((float) 3);
 
   // float para int
-  echo '<p>Float para inteiro</p>';
+  echo "<p class='divide'>Float para inteiro</p>";
   var_dump((int) 6.8);
 
   echo '<br>';
@@ -24,7 +24,7 @@
   var_dump((int) round(2.8));
 
   // operações com string
-  echo '<p>Strings</p>';
+  echo "<p class='divide'>Strings</p>";
   var_dump(3 + "2");
 
   echo '<br>';
