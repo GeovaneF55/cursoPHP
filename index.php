@@ -17,7 +17,7 @@
     <div class="content">
       <nav class="modules">
         <div class="module green">
-          <h3>Módulo 01</h3>
+          <h3>Básico</h3>
           <ul>
             <li>
               <a href="exercise.php?dir=basic&file=hello">
@@ -47,7 +47,7 @@
           </ul>
         </div>
         <div class="module red">
-          <h3>Módulo 02</h3>
+          <h3>Tipo</h3>
           <ul>
             <li>
               <a href="exercise.php?dir=type&file=int">
@@ -87,6 +87,51 @@
             <li>
               <a href="exercise.php?dir=type&file=convertions">
                 Conversões
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="module blue">
+          <h3>Variáveis</h3>
+          <ul>
+            <li>
+              <a href="exercise.php?dir=variables&file=basic">
+                Variáveis
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=variables&file=challenge_equation">
+                Desafio Equação
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=variables&file=assignments">
+                Atribuições
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=variables&file=interpolation">
+                Interpolação
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=variables&file=variables_variables">
+                Variáveis Variáveis
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=variables&file=challenge_variables">
+                Desafio Variáveis Variáveis
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=variables&file=value_reference">
+                Valor vs Referência
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=variables&file=constants">
+                Constantes
               </a>
             </li>
           </ul>

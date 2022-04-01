@@ -6,7 +6,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
-  ]<link rel="stylesheet" href="assets/css/exercise.css">
+  <link rel="stylesheet" href="assets/css/exercise.css">
   <title>Exercício</title>
 </head>
 <body class="exercise">
