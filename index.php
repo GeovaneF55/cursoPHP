@@ -17,7 +17,7 @@
     <div class="content">
       <nav class="modules">
         <div class="module green">
-          <h3>Básico</h3>
+          <h3>1. Básico</h3>
           <ul>
             <li>
               <a href="exercise.php?dir=basic&file=hello">
@@ -47,7 +47,7 @@
           </ul>
         </div>
         <div class="module red">
-          <h3>Tipo</h3>
+          <h3>2. Tipo</h3>
           <ul>
             <li>
               <a href="exercise.php?dir=type&file=int">
@@ -92,7 +92,7 @@
           </ul>
         </div>
         <div class="module blue">
-          <h3>Variáveis</h3>
+          <h3>3. Variáveis</h3>
           <ul>
             <li>
               <a href="exercise.php?dir=variables&file=basic">
@@ -137,7 +137,7 @@
           </ul>
         </div>
         <div class="module purple">
-          <h3>Estruturas de Controle</h3>
+          <h3>4. Estruturas de Controle</h3>
           <ul>
             <li>
               <a href="exercise.php?dir=control&file=if_else">
@@ -182,7 +182,7 @@
           </ul>
         </div>
         <div class="module orange">
-          <h3>Array</h3>
+          <h3>5. Array</h3>
           <ul>
             <li>
               <a href="exercise.php?dir=array&file=basic">
@@ -242,7 +242,7 @@
           </ul>
         </div>
         <div class="module dark-green">
-          <h3>Repetições</h3>
+          <h3>6. Repetições</h3>
           <ul>
             <li>
               <a href="exercise.php?dir=repetitions&file=for">
@@ -282,6 +282,56 @@
             <li>
               <a href="exercise.php?dir=repetitions&file=challenge_table_2">
                 Desafio Tabela #02
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="module dark-red">
+          <h3>7. Funções</h3>
+          <ul>
+            <li>
+              <a href="exercise.php?dir=functions&file=scope">
+                Função & Escopo
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=functions&file=args_return">
+                Argumentos & Retorno
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=functions&file=challenge_palindrome">
+                Desafio Palíndromo
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=functions&file=args_variables">
+                Argumentos Variáveis
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=functions&file=arg_default">
+                Argumento Padrão
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=functions&file=using_types">
+                Usando Tipos
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=functions&file=anonymous_function">
+                Funções Anônimas
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=functions&file=closure_callable">
+                Closure & Callable
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=functions&file=recursion">
+                Recursividade
               </a>
             </li>
           </ul>
