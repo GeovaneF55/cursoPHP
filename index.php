@@ -241,6 +241,51 @@
             </li>
           </ul>
         </div>
+        <div class="module dark-green">
+          <h3>Repetições</h3>
+          <ul>
+            <li>
+              <a href="exercise.php?dir=repetitions&file=for">
+                Laço For
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=repetitions&file=challenge_for">
+                Desafio For
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=repetitions&file=foreach">
+                Foreach
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=repetitions&file=break_continue">
+                Break/Continue
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=repetitions&file=challenge_print">
+                Desafio Impressão
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=repetitions&file=while">
+                While/Do While
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=repetitions&file=challenge_table">
+                Desafio Tabela #01
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=repetitions&file=challenge_table_2">
+                Desafio Tabela #02
+              </a>
+            </li>
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
