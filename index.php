@@ -181,6 +181,66 @@
             </li>
           </ul>
         </div>
+        <div class="module orange">
+          <h3>Array</h3>
+          <ul>
+            <li>
+              <a href="exercise.php?dir=array&file=basic">
+                Array
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=map">
+                Mapa
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=challenge_index">
+                Desafio Index
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=challenge_months">
+                Desafio Meses
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=operations">
+                Operações
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=challenge_draw">
+                Desafio Sorteio
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=multi">
+                Multidimensionais
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=constants">
+                Arrays Constantes
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=get">
+                $_GET
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=post">
+                $_POST
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=array&file=compare">
+                Comparação Arrays
+              </a>
+            </li>
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
