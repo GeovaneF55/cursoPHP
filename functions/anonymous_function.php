@@ -21,8 +21,8 @@
 
   execute(2, 3, '*', $mult);
 
-  $div = function ($a, $b) {
+  function div($a, $b) {
     return $a / $b;
   };
 
-  execute(6, 2, '/', $div);
+  execute(6, 2, '/', 'div');
