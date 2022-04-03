@@ -351,6 +351,16 @@
             </li>
           </ul>
         </div>
+        <div class="module dark-blue">
+          <h3>8. Paradigma Orientação a Objetos</h3>
+          <ul>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=class">
+                Primeira Classe
+              </a>
+            </li>
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
