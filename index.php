@@ -359,6 +359,26 @@
                 Primeira Classe
               </a>
             </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=data">
+                Classe Data
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=construct_destruct">
+                Construtor & Destrutor
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=heritage">
+                Herança
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=visibility">
+                Visibilidade
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
