@@ -379,6 +379,51 @@
                 Visibilidade
               </a>
             </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=static">
+                Membros Estáticos
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=interface">
+                Interface
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=abstract">
+                Classe Abstrata
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=challenge_erros">
+                Desafio erros
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=final">
+                Modificador Final
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=traits_01">
+                Traits #01
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=traits_02">
+                Traits #02
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=magic_methods">
+                Métodos Mágicos
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=classes_objects&file=polymorphism">
+                Polimorfismo
+              </a>
+            </li>
           </ul>
         </div>
       </nav>
