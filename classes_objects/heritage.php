@@ -1,9 +1,6 @@
 <div class="title">Herança</div>
 
 <?php
-
-use Person as GlobalPerson;
-
   class Person {
     public $name;
     public $age;
@@ -24,7 +21,7 @@ use Person as GlobalPerson;
     }
   }
 
-  Class User extends Person {
+  class User extends Person {
     public $login;
 
     function __construct($name, $age, $login) {

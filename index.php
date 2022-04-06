@@ -426,6 +426,41 @@
             </li>
           </ul>
         </div>
+        <div class="module dark-purple">
+          <h3>9. Includes</h3>
+          <ul>
+            <li>
+              <a href="exercise.php?dir=includes&file=include">
+                Include
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=includes&file=include_function">
+                Include Função
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=includes&file=include_require">
+                Include vs Require
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=includes&file=require_return">
+                Require & Return
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=includes&file=include_once">
+                Include Once
+              </a>
+            </li>
+            <li>
+              <a href="exercise.php?dir=includes&file=challenge">
+                Desafio do Módulo
+              </a>
+            </li>
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
