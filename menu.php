@@ -464,4 +464,29 @@
       </li>
     </ul>
   </div>
+  <div class="module green">
+    <h3>11. Tratamento de Erros</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=error_treatment&file=try_catch">
+          Try/Catch
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=error_treatment&file=personalized_error">
+          Erros Personalizados
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=error_treatment&file=challenge_intdiv_test">
+          Desafio Intdiv
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=error_treatment&file=error_manager">
+          Gerenciador de Erro
+        </a>
+      </li>
+    </ul>
+  </div>
 </nav>
