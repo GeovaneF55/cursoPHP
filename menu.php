@@ -489,4 +489,19 @@
       </li>
     </ul>
   </div>
+  <div class="module red">
+    <h3>12. Sessão</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=session&file=basic_session">
+          Sessão
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=session&file=manager_session">
+          Gerenciar Sessão
+        </a>
+      </li>
+    </ul>
+  </div>
 </nav>

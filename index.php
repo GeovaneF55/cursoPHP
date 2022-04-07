@@ -1,3 +1,15 @@
+<?php
+  session_start();
+
+  if($_COOKIE['user']) {
+    $_SESSION['user'] = $_COOKIE['user'];
+  }
+
+  if(!$_SESSION['user']) {
+    header('Location: login.php');
+  }
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +25,10 @@
     <h1>Curso PHP</h1>
     <h2>Índice dos Exercícios</h2>
   </header>
+  <nav class="navigation">
+    <span class="user">Usuário: <?= $_SESSION['user'] ?></span>
+    <a href="logout.php" class="red">Sair</a>
+  </nav>
   <main class="main">
     <div class="content">
       <?php require_once('menu.php'); ?>
