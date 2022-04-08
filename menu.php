@@ -504,4 +504,19 @@
       </li>
     </ul>
   </div>
+  <div class="module blue">
+    <h3>13. API</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=api&file=dates_01">
+          Datas #01
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=api&file=dates_02">
+          Datas #02
+        </a>
+      </li>
+    </ul>
+  </div>
 </nav>
