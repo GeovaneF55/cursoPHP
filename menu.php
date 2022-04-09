@@ -517,6 +517,31 @@
           Datas #02
         </a>
       </li>
+      <li>
+        <a href="exercise.php?dir=api&file=write_file">
+          Escrever Arquivo
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=api&file=read_file">
+          Ler Arquivo
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=api&file=upload">
+          Upload de Arquivos
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=api&file=download">
+          Download de Arquivos
+        </a>
+      </li>
+      <li>
+        <a href="exercise.php?dir=api&file=images">
+          Imagens
+        </a>
+      </li>
     </ul>
   </div>
 </nav>
