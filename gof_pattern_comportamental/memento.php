@@ -49,7 +49,7 @@ class Customizer
     $this->car = $memento->getCar();
   }
 
-  public function changeColor($color)
+  public function setColor($color)
   {
     $this->car->color = $color;
   }
@@ -68,7 +68,7 @@ echo $custom->getColor() . "<br>";
 
 $backup = $custom->copy();
 
-$custom->changeColor("Black");
+$custom->setColor("Black");
 echo $custom->getColor() . "<br>";
 // Output: Black
 
