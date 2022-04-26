@@ -620,116 +620,126 @@
     </ul>
   </div>
   <div class="module dark-green">
-    <h3>16. Padrão GOF</h3>
+    <h3>16. Padrão GOF - Criacional</h3>
     <ul>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=singleton">
-          Criacional - Singleton
+        <a href="exercise.php?dir=gof_pattern_creational&file=singleton">
+          Singleton
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=factory_method">
-          Criacional - Método Fábrica
+        <a href="exercise.php?dir=gof_pattern_creational&file=factory_method">
+          Método Fábrica
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=abstract_factory">
-          Criacional - Fábrica Abstrata
+        <a href="exercise.php?dir=gof_pattern_creational&file=abstract_factory">
+          Fábrica Abstrata
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=builder">
-          Criacional - Builder
+        <a href="exercise.php?dir=gof_pattern_creational&file=builder">
+          Builder
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=prototype">
-          Criacional - Protótipo
+        <a href="exercise.php?dir=gof_pattern_creational&file=prototype">
+          Protótipo
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="module dark-red">
+    <h3>16. Padrão GOF - Estrutural</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=gof_pattern_structural&file=bridge">
+          Bridge
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=bridge">
-          Estrututrais - Bridge
+        <a href="exercise.php?dir=gof_pattern_structural&file=adapter">
+          Adapter
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=adapter">
-          Estrututrais - Adapter
+        <a href="exercise.php?dir=gof_pattern_structural&file=proxy">
+          Proxy
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=proxy">
-          Estrututrais - Proxy
+        <a href="exercise.php?dir=gof_pattern_structural&file=decorator">
+          Decorator
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=decorator">
-          Estrututrais - Decorator
+        <a href="exercise.php?dir=gof_pattern_structural&file=composite">
+          Composite
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=composite">
-          Estrututrais - Composite
+        <a href="exercise.php?dir=gof_pattern_structural&file=facade">
+          Facade
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=facade">
-          Estrututrais - Facade
+        <a href="exercise.php?dir=gof_pattern_structural&file=flyweight">
+          Flyweight
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="module dark-blue">
+    <h3>17. Padrão GOF - Comportamental</h3>
+    <ul>
+      <li>
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=command">
+          Command
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=flyweight">
-          Estrututrais - Flyweight
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=strategy">
+          Strategy
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=command">
-          Comportamento - Command
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=observer">
+          Observer
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=strategy">
-          Comportamento - Strategy
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=mediator">
+          Mediator
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=observer">
-          Comportamento - Observer
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=chain_of_responsability">
+          Chain of Responsability
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=mediator">
-          Comportamento - Mediator
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=template">
+          Template
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=chain_of_responsability">
-          Comportamento - Chain of Responsability
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=interpreter">
+          Interpreter
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=template">
-          Comportamento - Template
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=memento">
+          Memento
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=interpreter">
-          Comportamento - Interpreter
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=iterator">
+          Iterator
         </a>
       </li>
       <li>
-        <a href="exercise.php?dir=gof_pattern&file=memento">
-          Comportamento - Memento
-        </a>
-      </li>
-      <li>
-        <a href="exercise.php?dir=gof_pattern&file=iterator">
-          Comportamento - Iterator
-        </a>
-      </li>
-      <li>
-        <a href="exercise.php?dir=gof_pattern&file=visitor">
-          Comportamento - Visitor
+        <a href="exercise.php?dir=gof_pattern_comportamental&file=visitor">
+          Visitor
         </a>
       </li>
     </ul>
