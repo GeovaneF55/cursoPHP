@@ -62,7 +62,8 @@ class Customizer
 
 // ---
 
-$custom = new Customizer(new Car("White"));
+$car = new Car("White");
+$custom = new Customizer($car);
 echo $custom->getColor() . "<br>";
 // Output: White
 
